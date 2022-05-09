@@ -1,4 +1,4 @@
-const API_KEY = "da2cdcee05a57c223d29ef4abe4c1048";
+const API_KEY = "SENING API KALITIING";
 
 export default {
     fetchTrending: {
